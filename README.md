@@ -12,3 +12,8 @@
 ## Kaggle
 
 Binary Classification with a Tabular Credit Card Fraud Dataset - https://www.kaggle.com/competitions/playground-series-s3e4
+
+
+## Vídeos de las entregas
+
+Entrega uno: [clic aquí (WIP)](https://duckduckgo.com)
