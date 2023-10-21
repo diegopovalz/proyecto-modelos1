@@ -16,4 +16,4 @@ Binary Classification with a Tabular Credit Card Fraud Dataset - https://www.kag
 
 ## Vídeos de las entregas
 
-Entrega uno: [clic aquí (WIP)](https://duckduckgo.com)
+Entrega uno: [clic aquí (WIP)](https://youtu.be/Gh_PHHFkv1k)
